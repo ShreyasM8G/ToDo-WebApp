@@ -11,10 +11,12 @@ import Mongo from './pages/Mongo';
 import Chat from './pages/chat';
 
 
+
 const App = () => {
 	return (
 		
 	<BrowserRouter>
+	
 	<Routes>
       <Route path="/Basic" element={<Basic/>}></Route>
 	  <Route path="/login" element={<Login/>} />
