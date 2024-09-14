@@ -1,4 +1,4 @@
-Team ToDo Web App
+Team-ToDo Web App
 
 
 Overview
@@ -65,5 +65,7 @@ Open the app in your browser:
 Usage
 
   >Adding a ToDo: Enter the task description along with your name to assign the task.
+
   >Editing a ToDo: Select a task and modify its content.
+  
   >Deleting a ToDo: Click the delete button to remove a task from the list.
